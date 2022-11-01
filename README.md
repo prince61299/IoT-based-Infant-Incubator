@@ -1,1 +1,3 @@
 # --IoT-based-Baby-Incubators.
+
+ The purpose of this project is to build a prototype of an IoT-based baby incubator monitoring system based on things equipped with various sensors that will send data to the server in real time, including the pulse rate, body temperature, weight, movement, and voice of the infant, it also monitors the incubator's temperature, humidity, oxygen level, and air pressure. This study focused on how to develop intelligent portable baby incubators that can easily carry from one place to another with these features. The benefit of this research is as a driver of innovation for baby incubator products that will support the national medical devices manufacturing company.
